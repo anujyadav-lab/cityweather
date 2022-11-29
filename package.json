@@ -2,7 +2,7 @@
   "name": "expapp",
   "version": "1.0.0",
   "description": "express tut for youtube",
-  "main": "app.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node  src/app.js"
